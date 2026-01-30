@@ -1,2 +1,3 @@
 # Mr_Ben_pizza
-A complete BUsiness Analytic Project for Mr Ben's Company
+A complete Project in python for Mr Ben's pizza company
+
