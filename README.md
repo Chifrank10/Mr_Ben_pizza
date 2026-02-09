@@ -1,6 +1,6 @@
 # Mr_Ben_pizza
 This project was developed using a formal Business Requirements Document (BRD) to simulate a real-world analytics engagement.”
-Pizza Sales Data Analysis Project 🍕
+##Pizza Sales Data Analysis Project 🍕
 This project analyzes transactional pizza sales data to uncover business insights that support decision-making in sales, operations, and inventory management. The analysis simulates a real-world business intelligence engagement using a structured Business Requirements Document (BRD) and an end-to-end analytics workflow.
 Project Objective
 The objective of this project is to transform raw pizza sales data into actionable insights that help management:
