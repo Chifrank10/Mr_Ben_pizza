@@ -1,14 +1,12 @@
-# Mr_Ben_pizza
-This project was developed using a formal Business Requirements Document (BRD) to simulate a real-world analytics engagement.”
-##Pizza Sales Data Analysis Project 🍕
+# Pizza Sales Data Analysis Project 🍕
 This project analyzes transactional pizza sales data to uncover business insights that support decision-making in sales, operations, and inventory management. The analysis simulates a real-world business intelligence engagement using a structured Business Requirements Document (BRD) and an end-to-end analytics workflow.
-Project Objective
+## Project Objective
 The objective of this project is to transform raw pizza sales data into actionable insights that help management:
 - Understand revenue and demand trends
 - Identify top-performing and underperforming products
 - Optimize staffing, inventory, and promotional strategies
 - Monitor key performance indicators through visual dashboards
-Business Questions Answered
+## Business Questions Answered
 - What is the total revenue, total orders, and total pizzas sold?
 - Which pizza categories, sizes, and individual products generate the most revenue?
 - Which pizzas are the best-selling and least-selling by quantity and revenue?
@@ -17,9 +15,11 @@ Business Questions Answered
 - How does Average Order Value (AOV) vary by day and time?
 - Which products should be promoted, optimized, or reconsidered?
 - How can staffing and inventory planning be aligned with demand patterns?
-Dataset Description
-Dataset: pizzavv.csv
-Key Fields:
+## Dataset Description
+The Data Set was downloaded from Kaggle .
+This project was developed using a formal Business Requirements Document (BRD) to simulate a real-world analytics engagement.”
+
+## Key Fields:
 - order_id: Unique identifier for each order
 - pizza_name: Name of pizza sold
 - pizza_category: Category classification (Classic, Veggie, Chicken, Supreme)
@@ -27,13 +27,13 @@ Key Fields:
 - quantity: Number of pizzas sold
 - total_price: Revenue per transaction
 - order_date & order_time: Timestamp fields for time-based analysis
-Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy) for data cleaning and transformation
 - Matplotlib & Seaborn for data visualization
 - Google Colab for cloud-based analysis
 - Microsoft Excel (dashboard alignment)
 - GitHub for version control and portfolio hosting
-Key KPIs
+## Key KPIs
 - Total Revenue
 - Total Orders
 - Total Pizzas Sold
@@ -41,7 +41,7 @@ Key KPIs
 - Average Pizzas per Order
 - Revenue by Category and Size
 - Top 5 & Bottom 5 Products
-Dashboard Visualizations
+## Dashboard Visualizations
 - KPI cards for revenue, orders, AOV, and pizzas sold
 - Daily sales trend by day of week
 - Hourly sales trend and demand heatmap
@@ -50,21 +50,21 @@ Dashboard Visualizations
 - Revenue and quantity by pizza size
 - Top 5 and Bottom 5 pizzas by performance
 - Average Order Value by day of week
-Key Insights
+## Key Insights
 Large-sized pizzas contribute the highest share of total revenue. Sales peak during specific hours and weekends, indicating clear demand cycles. A small number of pizza products drive a large portion of total revenue. Certain low-performing pizzas consistently underperform and may require redesign or removal.
-Business Recommendations
+## Business Recommendations
 - Focus marketing campaigns on high-performing pizza categories and sizes.
 - Optimize staffing levels during identified peak sales hours.
 - Adjust inventory planning based on category and size demand patterns.
 - Bundle or promote slow-moving pizzas with top sellers.
 - Continuously monitor KPIs using dashboards for proactive decision-making.
-Project Deliverables
+## Project Deliverables
 - Google Colab Notebook (.ipynb) with full analysis
 - Enhanced Business Requirements Document (BRD)
 - Visual dashboards and charts
 - Cleaned and structured dataset
 - GitHub repository documentation (this README)
-How to Run the Project
+## How to Run the Project
 1. Upload the pizzavv.csv file into Google Colab.
 2. Open the Pizza Sales Analysis notebook.
 3. Run all cells to reproduce the analysis and visualizations.
