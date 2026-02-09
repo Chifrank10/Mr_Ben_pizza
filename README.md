@@ -1,3 +1,3 @@
 # Mr_Ben_pizza
-A complete Project in python for Mr Ben's pizza company
+This project was developed using a formal Business Requirements Document (BRD) to simulate a real-world analytics engagement.”
 
